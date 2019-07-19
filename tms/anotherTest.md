@@ -1,3 +1,0 @@
-# Header
-
-With a body.
